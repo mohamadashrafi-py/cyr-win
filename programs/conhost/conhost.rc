@@ -78,11 +78,11 @@ FONT 8, "MS Shell Dlg"
 	LTEXT "&Font", -1, 5, 5, 50, 8
 	LISTBOX IDC_FNT_LIST_FONT, 5, 18, 90, 42, LBS_SORT|WS_VSCROLL
 	LTEXT "&Color", -1, 100, 5, 50, 8
-	CONTROL "", IDC_FNT_COLOR_FG, "WineConColorPreview", 0L, 100, 18, 48, 16
-	CONTROL "", IDC_FNT_COLOR_BK, "WineConColorPreview", 0L, 100, 40, 48, 16
+	CONTROL "", IDC_FNT_COLOR_FG, "Cyr-winConColorPreview", 0L, 100, 18, 48, 16
+	CONTROL "", IDC_FNT_COLOR_BK, "Cyr-winConColorPreview", 0L, 100, 40, 48, 16
 	LTEXT "&Size", -1, 158, 5, 40, 8
 	LISTBOX IDC_FNT_LIST_SIZE, 158, 18, 40, 60, WS_VSCROLL
-	CONTROL "", IDC_FNT_PREVIEW, "WineConFontPreview", 0L, 5, 60, 109, 40
+	CONTROL "", IDC_FNT_PREVIEW, "Cyr-winConFontPreview", 0L, 5, 60, 109, 40
 	LTEXT "", IDC_FNT_FONT_INFO, 128, 73, 80, 27
 }
 
@@ -116,7 +116,7 @@ FONT 8, "MS Shell Dlg"
 
 LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
 
-#define WINE_FILEDESCRIPTION_STR "Wine conhost"
+#define WINE_FILEDESCRIPTION_STR "Cyr-win conhost"
 #define WINE_FILENAME_STR "conhost.exe"
 #define WINE_FILEVERSION 6,1,7601,22045
 

@@ -25,5 +25,5 @@ LANGUAGE LANG_ENGLISH, SUBLANG_DEFAULT
 STRINGTABLE
 {
     IDS_NAME "#msgctxt#do not translate#MS-CRAM"
-    IDS_DESCRIPTION "Wine Video 1 video codec"
+    IDS_DESCRIPTION "Cyr-win Video 1 video codec"
 }

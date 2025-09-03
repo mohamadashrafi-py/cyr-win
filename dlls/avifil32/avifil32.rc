@@ -32,7 +32,7 @@ STRINGTABLE
   IDS_ALLFILES		"All files (*.*)"
   IDS_VIDEO		"video"
   IDS_AUDIO		"audio"
-  IDS_AVIFILETYPE	"Wine AVI-default-filehandler"
+  IDS_AVIFILETYPE	"Cyr-win AVI-default-filehandler"
   IDS_UNCOMPRESSED      "uncompressed"
 }
 

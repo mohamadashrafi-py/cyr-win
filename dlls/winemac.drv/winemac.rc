@@ -28,7 +28,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_DEFAULT
 
 STRINGTABLE
 {
-    STRING_MENU_WINE                        "Wine"
+    STRING_MENU_WINE                        "Cyr-win"
     STRING_MENU_ITEM_HIDE_APPNAME           "Hide %@"
     STRING_MENU_ITEM_HIDE                   "Hide"
     STRING_MENU_ITEM_HIDE_OTHERS            "Hide Others"
@@ -45,7 +45,7 @@ STRINGTABLE
 
 LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
 
-#define WINE_FILEDESCRIPTION_STR "Wine Mac driver"
-#define WINE_FILENAME_STR "winemac.drv"
+#define WINE_FILEDESCRIPTION_STR "Cyr-win Mac driver"
+#define WINE_FILENAME_STR "Cyr-winmac.drv"
 
 #include "wine/wine_common_ver.rc"

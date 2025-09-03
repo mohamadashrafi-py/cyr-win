@@ -80,7 +80,7 @@ IDM_WINEFILE MENU
 
     POPUP "&Help"  {
         MENUITEM "&Contents\tF1",               ID_HELP
-        MENUITEM "&About Wine File Manager",    ID_ABOUT
+        MENUITEM "&About Cyr-win File Manager",    ID_ABOUT
     }
 }
 
@@ -92,7 +92,7 @@ STRINGTABLE
 
 STRINGTABLE
 {
-    IDS_WINEFILE            "Wine File Manager"
+    IDS_WINEFILE            "Cyr-win File Manager"
     IDS_ERROR               "Error"
     IDS_ROOT_FS             "root fs"
     IDS_DESKTOP             "#msgctxt#display name#Desktop"

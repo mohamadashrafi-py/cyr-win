@@ -132,7 +132,7 @@ MCIERR_SEQ_PORTUNSPECIFIED, 	"The system doesn't have a current MIDI port specif
 MCIERR_SEQ_TIMER, 		"All multimedia timers are being used by other applications. Quit one of these applications, and then try again."
 
 /* mixer UI */
-IDS_MAPPER_NAME,		"Wine Sound Mapper"
+IDS_MAPPER_NAME,		"Cyr-win Sound Mapper"
 IDS_VOLUME,			"Volume"
 IDS_MASTER_VOLUME,		"Master Volume"
 IDS_MUTE,			"Mute"

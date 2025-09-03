@@ -25,6 +25,6 @@ LANGUAGE LANG_ENGLISH, SUBLANG_DEFAULT
 STRINGTABLE
 BEGIN
 
-IDS_CMD_LAUNCH_FAILED      "wineconsole: Starting program %s failed.\nThe command is invalid.\n"
+IDS_CMD_LAUNCH_FAILED      "Cyr-winconsole: Starting program %s failed.\nThe command is invalid.\n"
 
 END

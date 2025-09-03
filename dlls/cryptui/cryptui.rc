@@ -312,7 +312,7 @@ IDD_IMPORT_STORE DIALOG 0,0,317,143
 CAPTION "Certificate Import Wizard"
 FONT 8, "MS Shell Dlg"
 BEGIN
-  LTEXT "Wine can automatically select the certificate store, or you can specify a location for the certificates.",
+  LTEXT "Cyr-win can automatically select the certificate store, or you can specify a location for the certificates.",
     -1, 21,1,220,25
   AUTORADIOBUTTON "&Automatically select certificate store",
     IDC_IMPORT_AUTO_STORE, 31,28,220,12, BS_AUTORADIOBUTTON|WS_TABSTOP
